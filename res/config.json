@@ -1,0 +1,92 @@
+{
+    "images":[
+        {
+            "title": "coin",
+            "src": "img/coin.img",
+            "style": {
+                "properties":["red","bold"],
+                "bg":{
+                    "properties":["yellow"]
+                }
+            }
+        },
+        {
+            "title": "detective",
+            "src": "img/detective.img",
+            "style": {
+                "properties":["yellow","underline"],
+                "bg":{
+                    "properties":["red"]
+                }
+            }
+        },
+        {
+            "title": "number_0",
+            "src": "img/number/number_0.img"
+        },
+        {
+            "title": "number_1",
+            "src": "img/number/number_1.img"
+        },{
+            "title": "number_2",
+            "src": "img/number/number_2.img"
+        },{
+            "title": "number_3",
+            "src": "img/number/number_3.img"
+        },{
+            "title": "number_4",
+            "src": "img/number/number_4.img"
+        },{
+            "title": "number_5",
+            "src": "img/number/number_5.img"
+        },{
+            "title": "number_6",
+            "src": "img/number/number_6.img"
+        },{
+            "title": "number_7",
+            "src": "img/number/number_7.img"
+        },{
+            "title": "number_8",
+            "src": "img/number/number_8.img"
+        },{
+            "title": "number_9",
+            "src": "img/number/number_9.img"
+        },{
+            "title": "char_0",
+            "src": "img/number/number_0.img"
+        },{
+            "title": "char_1",
+            "src": "img/number/number_1.img"
+        },{
+            "title": "char_2",
+            "src": "img/number/number_2.img"
+        },{
+            "title": "char_3",
+            "src": "img/number/number_3.img"
+        },{
+            "title": "char_4",
+            "src": "img/number/number_4.img"
+        },{
+            "title": "char_5",
+            "src": "img/number/number_5.img"
+        },{
+            "title": "char_6",
+            "src": "img/number/number_6.img"
+        },{
+            "title": "char_7",
+            "src": "img/number/number_7.img"
+        },{
+            "title": "char_8",
+            "src": "img/number/number_8.img"
+        },{
+            "title": "char_9",
+            "src": "img/number/number_9.img"
+        },{
+            "title": "char_:",
+            "src": "img/char/colon.img"
+        },{
+            "title": "char_.",
+            "src": "img/char/dot.img"
+        }
+    ]
+}

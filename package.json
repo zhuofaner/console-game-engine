@@ -1,0 +1,25 @@
+{
+    "name": "console-game-engine",
+    "version": "0.0.1",
+    "description": "use console as stdout and quick test game model",
+    "author": "zhuofaner",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "tsc && node lib/test/console.js",
+        "start": "tsc && node lib/index.js"
+    },
+    "dependencies": {
+        "ansi": "latest",
+        "audio-loader": "^1.0.3",
+        "audio-play": "^2.2.1",
+        "commander": "latest",
+        "i18n": "^0.8.4",
+        "sound-play": "^1.0.5"
+    },
+    "devDependencies": {
+        "@types/ansi": "^0.3.2",
+        "@types/node": "^13.1.4",
+        "typescript": "latest"
+    }
+}
